@@ -1,2 +1,3 @@
-# advanced-microservice-wz25
-A microservice architecture for modern development workflows
+# Advanced Microservice Wz25
+
+A microservice architecture for modern development workflows.
